@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reduction-des-matrices-SPD
 
 ## Geomstats connectome data
@@ -217,3 +218,6 @@ The comprehensive benchmark report is available in `reports/SPD_results_report.h
 - Methodological answers on neighborhood parameter $k$, global vs. local geometry preservation, and numerical error mitigation
 - Interactive tables with dimensional transitions ($D \to d$) and information conservation metrics
 - 5-panel neighborhood topological graphs and metric evolution curves vs. dimension ($d \in [2, 20]$).
+=======
+# spd
+>>>>>>> 09a58161b7a73fdf981e0ccf0feb21b9a83ac574
